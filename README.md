@@ -10,3 +10,4 @@ Fig. 3 takes about 3 mins on my laptop.
 Fig. 4 takes some 20-30 mins on my laptop.
 Fig. 5 takes roughly 3.5 hours on my laptop (20 x Gen 12 Intel i7-12800H Cores).
 
+Examples of the generated figures are included with the files.
